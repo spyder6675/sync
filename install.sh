@@ -6,9 +6,19 @@ ulimit -n 10240
 # Change Date / Time Format 
 # date '+%H:%M:%S %p / %A / %B %-d, %Y'
 
-# mkdir -p ~/.vim/autoload
-mkdir /root/test_folder
-mkdir /root/test_tools
+# Creating useful directories 
+mkdir /root/tools
+
+# Env Setup 
+
+
+
+
+# Git Clone 
+
+
+
+
 
 
 
