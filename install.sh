@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 
 # Bump the maximum number of file descriptors you can have open
