@@ -1,7 +1,6 @@
 #!/bin/sh
 
 
-
 # Bump the maximum number of file descriptors you can have open
 ulimit -n 10240
 
@@ -10,7 +9,7 @@ ulimit -n 10240
 
 # mkdir -p ~/.vim/autoload
 mkdir -p /root/test_folder
-
+mkdir -p /root/test_tools
 
 
 
