@@ -1,5 +1,4 @@
-#!/usr/bin/env sh
-
+#!/usr/bin/env bash
 
 # Bump the maximum number of file descriptors you can have open
 ulimit -n 10240
