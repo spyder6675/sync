@@ -8,8 +8,8 @@ ulimit -n 10240
 # date '+%H:%M:%S %p / %A / %B %-d, %Y'
 
 # mkdir -p ~/.vim/autoload
-mkdir -p /root/test_folder
-mkdir -p /root/test_tools
+mkdir /root/test_folder
+mkdir /root/test_tools
 
 
 
