@@ -10,7 +10,7 @@ ulimit -n 10240
 mkdir /root/tools
 
 # Env Setup 
-
+sed 's/colorScheme=Kali-Light/colorScheme=Kali-Dark/' .config/qterminal.org/qterminal.ini 
 
 
 
