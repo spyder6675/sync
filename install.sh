@@ -15,6 +15,11 @@ mkdir /root/tools
 
 
 # Git Clone 
+git clone https://github.com/danielmiessler/SecLists.git /root/tools/SecLists/
+
+
+
+
 
 
 
